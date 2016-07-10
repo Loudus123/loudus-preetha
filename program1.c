@@ -1,4 +1,3 @@
-# loudus-preetha
 #include<stdio.h>
 void main()
 {
